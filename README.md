@@ -2,7 +2,7 @@
 
 <!--Aquí foto banner-->
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&color=%230D94E8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&color=%230D94E8)](https://www.linkedin.com/in/claudiacandelasoviedo/)
 
 ### About me
 
