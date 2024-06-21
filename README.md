@@ -4,7 +4,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&color=%230D94E8)](https://www.linkedin.com/in/claudiacandelasoviedo/)
 
-### About me
+### About me:
+<div>- I'm studying multiPlatform application development</div>
+<div>- I'm an enthusiast of new technologies and I always want to learn more about them</div>
+<div>- I have little experience in the sector but I am eager to learn</div>
 
 
 
