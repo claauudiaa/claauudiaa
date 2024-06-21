@@ -11,7 +11,6 @@
 <div>- Contact with me: @claudiacandelas2005@gmail.com</div>
 
 <h1 align="center">Stack</h1>
-[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)]
 
 <!--
 **claauudiaa/claauudiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
