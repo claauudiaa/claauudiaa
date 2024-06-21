@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Claudia</h1>
+
+<!--Aquí foto banner-->
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&color=%230D94E8)
+
+### About me
+
+
 
 <!--
 **claauudiaa/claauudiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
