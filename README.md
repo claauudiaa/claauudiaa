@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Claudia 👋</h1>
 
-<!--Aquí foto banner-->
+![Imagen principal](https://github.com/claauudiaa/claauudiaa/blob/main/imageGitHub.png?raw=true)
 
 <h3 align="center">A passionate developer from Spain</h3>
 
