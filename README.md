@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Claudia 👋</h1>
 
-![Imagen principal](https://github.com/claauudiaa/claauudiaa/blob/main/imageGitHub.png?raw=true)
+![Imagen principal](https://github.com/claauudiaa/claauudiaa/blob/main/image.png?raw=true)
 
 <h3 align="center">A passionate developer from Spain</h3>
 
